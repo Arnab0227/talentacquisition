@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/talentacquisition/static/css/main.7c0e10f3.css",
+    "main.js": "/talentacquisition/static/js/main.f2c7b294.js",
+    "index.html": "/talentacquisition/index.html",
+    "main.7c0e10f3.css.map": "/talentacquisition/static/css/main.7c0e10f3.css.map",
+    "main.f2c7b294.js.map": "/talentacquisition/static/js/main.f2c7b294.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c0e10f3.css",
+    "static/js/main.f2c7b294.js"
+  ]
+}
